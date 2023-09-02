@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **debajyotimaity322@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/e_hakson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="e_hakson" height="30" width="40" /></a>
