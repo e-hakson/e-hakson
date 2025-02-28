@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/e_hakson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="e_hakson" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mr-debajyoti-maity/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-debajyoti-maity/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/e-hakson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e-hakson/" height="30" width="40" /></a>
 <a href="https://fb.com/debajyoti.hakson.maity/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debajyoti.hakson.maity/" height="30" width="40" /></a>
 <a href="https://instagram.com/e.hakson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e.hakson" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mrdebajyotimaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrdebajyotimaity" height="30" width="40" /></a>
